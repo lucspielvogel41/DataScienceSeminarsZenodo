@@ -7,7 +7,7 @@ This repository contains materials developed for the *Data Science Seminars* pro
 * **Repository Name:** DataScienceSeminarsZenodo
 * **DOI:** 10.5281/zenodo.18865511 
 * **URL:** https://doi.org/10.5281/zenodo.18865511
-* **Version:** 1.0
+* **Version:** 1.0.0
 * **License:** MIT
 
 ## 📂 Contents
