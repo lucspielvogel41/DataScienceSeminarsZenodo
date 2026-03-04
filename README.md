@@ -24,7 +24,7 @@ This repository may include:
 
 If you use this repository, please cite it as:
 
-> *DataScienceSeminarsZenodo*. (2026). Zenodo. https://doi.org/10.5281/zenodo.18865511
+> *Spielvogel, L. (2026). DataScienceSeminarsZenodo (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.18865511
 
 ## 👤 Author
 
