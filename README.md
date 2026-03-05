@@ -34,6 +34,13 @@ Luc Spielvogel
 
 This project provides materials and resources created within the scope of the Data Science Seminars. It supports reproducible research and open science practices.
 
+#PROV Diagram Description
+
+* Houses = Agents
+* Pill = Entities
+* Rectangle = Activities
+* Connectives = Revision, derivation and plans
+
 ---
 
 For questions or feedback, please open an issue in this repository.
