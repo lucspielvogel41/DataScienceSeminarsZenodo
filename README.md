@@ -5,8 +5,8 @@ This repository contains materials developed for the *Data Science Seminars* pro
 ## 📌 Repository Information
 
 * **Repository Name:** DataScienceSeminarsZenodo
-* **DOI:** 10.5281/zenodo.18865511 
-* **URL:** https://doi.org/10.5281/zenodo.18865511
+* **DOI:** 10.5281/zenodo.18865510
+* **URL:** https://doi.org/10.5281/zenodo.18865510
 * **Version:** 1.1.0
 * **License:** MIT
 
@@ -24,7 +24,8 @@ This repository may include:
 
 If you use this repository, please cite it as:
 
-> *Spielvogel, L. (2026). DataScienceSeminarsZenodo (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.18865511
+> *Spielvogel, L. (2026). DataScienceSeminarsZenodo (Version 1.1.0) [Computer software]. 
+https://doi.org/10.5281/zenodo.18865510
 
 ## 👤 Author
 
